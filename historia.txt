@@ -8,4 +8,6 @@ hoy esta aprendiendo sobre llaves ssh
 
 master 1
 
+master 2
+
 ya aprendi muchas cosas pero todavia puedo mejorar mas 
