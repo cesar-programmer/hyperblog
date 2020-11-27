@@ -6,6 +6,8 @@ Mañana nos enfocaremos en su vida laboral
 
 hoy esta aprendiendo sobre llaves ssh 
 
+experimento 1
+
 master 1
 
 master 2
